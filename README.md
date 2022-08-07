@@ -1,7 +1,7 @@
 # Bellabeat_CaseStudy
-Capstone Project for the Professional Google Data  Analytics Certificate
+**Capstone Project for the Professional Google Data  Analytics Certificate**
 
-Author: Salma Ramiz
+- **Author: Salma Ramiz**
 
 
 - **Date:      August 2022**
