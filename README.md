@@ -6,7 +6,7 @@
 
 - **Date:      August 2022**
 
-# <span style = "color:#FE8062"> **How Can a Wellness Technology Company Play It Smart?** </span>
+# <span style = "color:red"> **How Can a Wellness Technology Company Play It Smart?** </span>
 
 ## About the company:
 
