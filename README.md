@@ -6,7 +6,7 @@
 
 - **Date:      August 2022**
 
-# <span style = "color:red"> **How Can a Wellness Technology Company Play It Smart?** </span>
+# **How Can a Wellness Technology Company Play It Smart?** 
 
 ## About the company:
 
@@ -18,30 +18,30 @@ Bellabeat has grown rapidly and quickly positioned itself as a tech-driven welln
 
 ####  Bellabeat products :
 
-<span style = "color:#FE8062"> **-  Bellabeat app:**</span> 
+**-  Bellabeat app:**
 
 The Bellabeat app provides users with health data related to their activity, sleep, stress,
 menstrual cycle, and mindfulness habits. This data can help users better understand their current habits and
 make healthy decisions. The Bellabeat app connects to their line of smart wellness products.
 
-<span style = "color:#FE8062">**- Leaf:**</span>  
+**- Leaf:** 
 
 Bellabeat’s classic wellness tracker can be worn as a bracelet, necklace, or clip. The Leaf tracker connects
 to the Bellabeat app to track activity, sleep, and stress.
 
-<span style = "color:#FE8062">**- Time:**</span>  
+**- Time:**
 
 This wellness watch combines the timeless look of a classic timepiece with smart technology to track user
 activity, sleep, and stress. The Time watch connects to the Bellabeat app to provide you with insights into your
 daily wellness.
 
-<span style = "color:#FE8062">**- Spring:**</span>  
+**- Spring:**
 
 This is a water bottle that tracks daily water intake using smart technology to ensure that you are
 appropriately hydrated throughout the day. The Spring bottle connects to the Bellabeat app to track your
 hydration levels.
 
-<span style = "color:#FE8062">**- Ivy:**</span> 
+**- Ivy:**
 
 Designed as an elegant bracelet that monitors your heart rate, respiratory rate, and cardiac coherence, and physical and mental activity.
 
